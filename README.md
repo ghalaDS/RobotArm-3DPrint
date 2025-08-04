@@ -24,7 +24,7 @@ The STL file was imported into **eufyMake Studio (based on PrusaSlicer)**.
 
 ## Print Settings Preview
 
-<img src="settings.png" alt="Slicer Preview" width="300"/>
+<img src="settings.png" alt="Slicer Preview" width="650"/>
 
 ---
 
